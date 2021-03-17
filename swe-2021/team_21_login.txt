@@ -1,0 +1,15 @@
+Starting time ::: 2021-03-17T06:04:15
+_content ::: b'{"data": {"email": "b", "password": "d"}}'
+_content_consumed ::: True
+_next ::: None
+status_code ::: 404
+headers ::: {'Server': 'nginx/1.18.0 (Ubuntu)', 'Date': 'Wed, 17 Mar 2021 11:04:10 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Content-Encoding': 'gzip'}
+raw ::: <urllib3.response.HTTPResponse object at 0x0000027BBA9119C8>
+url ::: https://demand.team21.sweispring21.tk/common-services/login
+encoding ::: ISO-8859-1
+history ::: []
+reason ::: Not Found
+cookies ::: <RequestsCookieJar[]>
+elapsed ::: 0:00:00.171533
+request ::: <PreparedRequest [POST]>
+connection ::: <requests.adapters.HTTPAdapter object at 0x0000027BBA8C2FC8>
