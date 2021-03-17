@@ -13,10 +13,6 @@ TEAM_REQ_INFO = {
         "register": "registrationForm.html",
         "register_params": (
             ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
             ),
         "order": "",
         "order_params": (
@@ -32,10 +28,6 @@ TEAM_REQ_INFO = {
         ,
         "register": "registration",
         "register_params": (
-            ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
             ("", ""),
             ),
         "order": "",
@@ -53,10 +45,6 @@ TEAM_REQ_INFO = {
         "register": "/common-services/register",
         "register_params": (
             ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
             ),
         "order": "",
         "order_params": (
@@ -73,10 +61,6 @@ TEAM_REQ_INFO = {
         "register": "register.html?",
         "register_params": (
             ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
             ),
         "order": "",
         "order_params": (
@@ -92,10 +76,6 @@ TEAM_REQ_INFO = {
         ,
         "register": "",
         "register_params": (
-            ("", ""),
-            ("", ""),
-            ("", ""),
-            ("", ""),
             ("", ""),
             ),
         "order": "",
